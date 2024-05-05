@@ -1,2 +1,2 @@
 # ORF401
-ORF401: class in e-commorce and sports analytics. 
+ORF401: class in e-commerce and sports analytics. 
